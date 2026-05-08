@@ -154,13 +154,11 @@
 </p>
 
 ---
-
-# 🌍 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Navww&style=for-the-badge&color=blueviolet"/>
+  <img src="https://raw.githubusercontent.com/Navww/Navww/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
 ---
 
 # ✨ Developer Quote
