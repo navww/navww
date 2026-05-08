@@ -27,22 +27,22 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/naveen-tripathi-826773209" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/naveen-tripathi-826773209">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Navww" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
-</a>
+  <a href="https://github.com/Navww">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.leetcode.com/coderr212" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
-</a>
+  <a href="https://leetcode.com/coderr212/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
 
-<a href="https://auth.geeksforgeeks.org/user/coder405" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40" width="40" />
-</a>
+  <a href="https://auth.geeksforgeeks.org/user/coder405/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 ---
