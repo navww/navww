@@ -44,16 +44,6 @@
   <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="50" />
 </a>
 </p>
-
-<a href="https://www.leetcode.com/coderr212" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/coder405" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40" width="40" />
-</a>
-</p>
-
 ---
 
 # 💻 Tech Stack
