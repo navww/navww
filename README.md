@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+from+India+🇮🇳;React+%7C+Node+%7C+MongoDB+Developer;DSA+Learner+💻;Open+Source+Contributor+🚀;Building+Cool+Web+Experiences+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+from+India+🇮🇳;React+Developer+⚛️;MERN+Stack+Learner+🚀;DSA+Enthusiast+💻;Open+Source+Contributor+✨" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 # 💫 About Me
 
@@ -22,6 +22,8 @@
   **My code works... sometimes on first try 😅**
 - 📫 Reach me at:  
   **naveentripathi.career@gmail.com**
+
+<br><br>
 
 ---
 
@@ -71,9 +73,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navww&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navww&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navww&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -102,10 +106,10 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -118,17 +122,7 @@
 
 ---
 
-# 🎧 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qk5j6eg7x5xxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false"/>
-</p>
-
-> ⚠️ Spotify widget ke liye apna Spotify UID dalna padega.
-
----
-
-# 🌍 Visitor Counter
+# 🌍 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Navww&style=for-the-badge&color=blueviolet"/>
@@ -144,10 +138,10 @@
 
 ---
 
-# 😂 Random Dev Meme
+# 😂 Random Dev Joke
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
 
 ---
@@ -156,7 +150,7 @@
 
 <p align="center">
 <a href="https://github.com/Navww">
-  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
