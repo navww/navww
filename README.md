@@ -5,54 +5,44 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+from+India+🇮🇳;React+Developer+⚛️;MERN+Stack+Learner+🚀;DSA+Enthusiast+💻;Always+Learning+New+Things+🔥" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navww&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+from+India+🇮🇳;React+%7C+Node+%7C+MongoDB+Developer;DSA+Learner+💻;Open+Source+Contributor+🚀;Building+Cool+Web+Experiences+✨" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 # 💫 About Me
 
 - 🔭 Currently working on **React.js & DSA**
 - 🌱 Learning **Node.js, Express.js, MongoDB**
-- 👨‍💻 All of my projects are available at  
-  👉 **https://github.com/Navww**
 - 💬 Ask me about  
   **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, C++, Git**
-- 📫 Reach me at  
-  **naveentripathi.career@gmail.com**
-- ⚡ Fun Fact  
+- ⚡ Fun Fact:  
   **My code works... sometimes on first try 😅**
-
-<br><br><br>
+- 📫 Reach me at:  
+  **naveentripathi.career@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/naveen-tripathi-826773209" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+<a href="https://linkedin.com/in/naveen-tripathi-826773209" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
 </a>
 
-<a href="https://github.com/Navww" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Navww" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
 </a>
 
-<a href="https://leetcode.com/coderr212/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<a href="https://www.leetcode.com/coderr212" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/coder405/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://auth.geeksforgeeks.org/user/coder405" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" height="40" width="40" />
 </a>
-
 </p>
 
 ---
@@ -70,17 +60,10 @@
 # 🚀 Tools & Platforms
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Editor-VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git"/>
-
+<img src="https://img.shields.io/badge/Code-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
 </p>
 
 ---
@@ -88,11 +71,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navww&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Navww&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navww&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navww&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +81,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Navww&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navww&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,7 +89,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navww&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Navww&theme=algolia&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
@@ -121,74 +102,62 @@
 
 ---
 
-# 🧠 Currently Learning
+# 🐍 Contribution Snake Animation
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=cplusplus"/>
-
-<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms"/>
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+# ⚡ GitHub Profile Summary
 
 <p align="center">
-
-<a href="https://github.com/Navww">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Navww&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Navww">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Navww&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
-</a>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navww&theme=tokyonight"/>
 </p>
 
 ---
-# 🐍 Contribution Snake
+
+# 🎧 Spotify Playing
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31qk5j6eg7x5xxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false"/>
 </p>
+
+> ⚠️ Spotify widget ke liye apna Spotify UID dalna padega.
+
 ---
 
-# ✨ Developer Quote
+# 🌍 Visitor Counter
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Navww&style=for-the-badge&color=blueviolet"/>
+</p>
 
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 🎯 Goals For 2025
+# 😂 Random Dev Meme
 
-- ✅ Master MERN Stack
-- ✅ Solve 500+ DSA Questions
-- ✅ Build Full Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Crack Product Based Company
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
 
 ---
 
 # 💖 Support Me
 
 <p align="center">
-
 <a href="https://github.com/Navww">
-<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-000?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
