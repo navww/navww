@@ -27,14 +27,23 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/naveen-tripathi-826773209" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
+<p align="center">
+<a href="https://linkedin.com/in/naveen-tripathi-826773209" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-<a href="https://github.com/Navww" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" width="45" />
+<a href="https://github.com/Navww" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
+
+<a href="https://leetcode.com/coderr212/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/coder405/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="50" />
+</a>
+</p>
 
 <a href="https://www.leetcode.com/coderr212" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40" />
