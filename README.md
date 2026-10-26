@@ -193,18 +193,10 @@ Full Stack Developer with <b>3+ years of experience</b> building scalable web, m
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navww&theme=algolia&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navww&theme=tokyo-night&hide_border=true"/>
+<img width="900" src="https://ghchart.rshah.org/00F7FF/Navww" alt="Naveen GitHub contribution chart"/>
 </p>
 
 ---
