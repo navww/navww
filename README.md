@@ -1,30 +1,36 @@
 <h1 align="center">Hey 👋, I'm Naveen Tripathi</h1>
 
-<h3 align="center">
+<h2 align="center">
 🚀 Full Stack Developer | MERN Stack | React Native | DSA Enthusiast
-</h3>
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+from+India+🇮🇳;3%2B+Years+Building+Scalable+Web+%26+Mobile+Apps;React+%7C+Node+%7C+PostgreSQL+%7C+Redis;Real-time+Systems+%26+Payment+Integrations+💳;Building+Cool+Web+Experiences+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+from+India;3%2B+Years+Building+Scalable+Web+and+Mobile+Apps;React+-+Node+-+PostgreSQL+-+Redis;Real-time+Systems+and+Payment+Integrations" alt="Typing SVG" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
 # 💫 About Me
 
-Full Stack Developer with **3+ years of experience** building scalable web, mobile, SaaS, marketplace, and enterprise applications. I love real-time features, payment integrations, and clean architectures that help products grow.
+<p align="center">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+</p>
 
-- 💼 Currently working at **Photon Software** as a Full Stack Developer (Remote)
-- 🔭 Working on a **Dating App backend + admin panel** and a **SaaS-based POS platform**
-- ⚡ Experienced with **React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL, Redis**
-- 💳 Integrated **Razorpay, Stripe & Google Play Billing**
-- ☁️ Deployments on **AWS (S3, ECR, ECS), Docker, VPS, Vercel, Netlify, Render**
-- 🧠 Solved **600+ problems** on LeetCode, CodeChef, Codeforces, GFG & more
-- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL, Redis, WebSockets, C++, Git**
-- 😅 Fun Fact: **My code works... sometimes on first try**
-- 📫 Reach me at: **naveentripathi.career@gmail.com**
+<h3>
+Full Stack Developer with <b>3+ years of experience</b> building scalable web, mobile, SaaS, marketplace, and enterprise applications. I love real-time features, payment integrations, and clean architectures that help products grow.
+</h3>
+
+<ul>
+  <li><h3>💼 Currently working at <b>Photon Software</b> as a Full Stack Developer (Remote)</h3></li>
+  <li><h3>🔭 Working on a <b>Dating App backend + admin panel</b> and a <b>SaaS-based POS platform</b></h3></li>
+  <li><h3>⚡ Experienced with <b>React.js, React Native, Node.js, Express.js, MongoDB, PostgreSQL, Redis</b></h3></li>
+  <li><h3>💳 Integrated <b>Razorpay, Stripe &amp; Google Play Billing</b></h3></li>
+  <li><h3>☁️ Deployments on <b>AWS (S3, ECR, ECS), Docker, VPS, Vercel, Netlify, Render</b></h3></li>
+  <li><h3>🧠 Solved <b>600+ problems</b> on LeetCode, CodeChef, Codeforces, GFG &amp; more</h3></li>
+  <li><h3>💬 Ask me about <b>React, Node.js, Express, MongoDB, PostgreSQL, Redis, WebSockets, C++, Git</b></h3></li>
+  <li><h3>😅 Fun Fact: <b>My code works... sometimes on first try</b></h3></li>
+  <li><h3>📫 Reach me at: <b>naveentripathi.career@gmail.com</b></h3></li>
+</ul>
 
 ---
 
@@ -32,19 +38,19 @@ Full Stack Developer with **3+ years of experience** building scalable web, mobi
 
 <p align="center">
 <a href="https://linkedin.com/in/naveen-tripathi-826773209" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="65" />
 </a>
 
 <a href="https://github.com/Navww" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="65" />
 </a>
 
 <a href="https://leetcode.com/coderr212/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" />
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/coder405/" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="50" />
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60" />
 </a>
 </p>
 
@@ -52,44 +58,79 @@ Full Stack Developer with **3+ years of experience** building scalable web, mobi
 
 # 🧑‍💻 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| Full Stack Developer | **Photon Software** (Remote) | Dec 2025 – Present |
-| Full Stack Developer | **Chirag Technologies** (Remote) | Apr 2025 – Nov 2025 |
-| MERN Stack Developer | **Metageeks Technologies** | Sep 2024 – Apr 2025 |
-| Teaching Assistant Intern | **Coding Ninjas** (Remote) | Dec 2022 – Apr 2023 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left"><h3>Role</h3></th>
+      <th align="left"><h3>Company</h3></th>
+      <th align="left"><h3>Duration</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h3>Full Stack Developer</h3></td>
+      <td><h3>Photon Software (Remote)</h3></td>
+      <td><h3>Dec 2025 – Present</h3></td>
+    </tr>
+    <tr>
+      <td><h3>Full Stack Developer</h3></td>
+      <td><h3>Chirag Technologies (Remote)</h3></td>
+      <td><h3>Apr 2025 – Nov 2025</h3></td>
+    </tr>
+    <tr>
+      <td><h3>MERN Stack Developer</h3></td>
+      <td><h3>Metageeks Technologies</h3></td>
+      <td><h3>Sep 2024 – Apr 2025</h3></td>
+    </tr>
+    <tr>
+      <td><h3>Teaching Assistant Intern</h3></td>
+      <td><h3>Coding Ninjas (Remote)</h3></td>
+      <td><h3>Dec 2022 – Apr 2023</h3></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💘 Dating Application — *Photon Software*
-`Node.js` `Express.js` `React.js` `Redis` `WhatsApp OTP` `Google Play Billing`
-- Built the complete backend and admin panel
-- Real-time messaging powered by Redis
-- WhatsApp OTP + Google Login auth, membership plans, Happy Hour feature
-- Google Play Billing and FX rate conversion engine
+<h2>💘 Dating Application — <i>Photon Software</i></h2>
+<p><code>Node.js</code> <code>Express.js</code> <code>React.js</code> <code>Redis</code> <code>WhatsApp OTP</code> <code>Google Play Billing</code></p>
+<ul>
+  <li><h3>Built the complete backend and admin panel</h3></li>
+  <li><h3>Real-time messaging powered by Redis</h3></li>
+  <li><h3>WhatsApp OTP + Google Login auth, membership plans, Happy Hour feature</h3></li>
+  <li><h3>Google Play Billing and FX rate conversion engine</h3></li>
+</ul>
 
-### 🛒 Unified Commerce POS System — *SaaS*
-`React.js` `Node.js` `Express.js`
-- Multi-store SaaS POS frontend with item, inventory, and coupon management
-- Delivery boy module, weighing machine integration, and GRN workflows
-- Dynamic store on/off toggle and advanced admin controls
+<h2>🛒 Unified Commerce POS System — <i>SaaS</i></h2>
+<p><code>React.js</code> <code>Node.js</code> <code>Express.js</code></p>
+<ul>
+  <li><h3>Multi-store SaaS POS frontend with item, inventory, and coupon management</h3></li>
+  <li><h3>Delivery boy module, weighing machine integration, and GRN workflows</h3></li>
+  <li><h3>Dynamic store on/off toggle and advanced admin controls</h3></li>
+</ul>
 
-### 🏷️ Bid.ai — *OLX-inspired Marketplace*
-`React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `Tailwind CSS` `Razorpay`
-- Full CRUD across 15+ categories with sub-200ms query response time
-- JWT-secured REST APIs and real-time buyer-seller chat
-- Razorpay-powered premium memberships
+<h2>🏷️ Bid.ai — <i>OLX-inspired Marketplace</i></h2>
+<p><code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>JWT</code> <code>Tailwind CSS</code> <code>Razorpay</code></p>
+<ul>
+  <li><h3>Full CRUD across 15+ categories with sub-200ms query response time</h3></li>
+  <li><h3>JWT-secured REST APIs and real-time buyer-seller chat</h3></li>
+  <li><h3>Razorpay-powered premium memberships</h3></li>
+</ul>
 
-### 🎓 RebertNextGen — *EdTech Platform*
-`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `AWS EC2`
-- Multi-role platform (Admin, Student, Trainer, Mentor) with RBAC
-- Course management, enrollment, progress tracking, and interactive sessions
+<h2>🎓 RebertNextGen — <i>EdTech Platform</i></h2>
+<p><code>React.js</code> <code>Vite</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>AWS EC2</code></p>
+<ul>
+  <li><h3>Multi-role platform (Admin, Student, Trainer, Mentor) with RBAC</h3></li>
+  <li><h3>Course management, enrollment, progress tracking, and interactive sessions</h3></li>
+</ul>
 
-### 🌐 Photon Software Official Website
-`React.js` `Tailwind CSS`
-- Fully responsive, SEO-optimized company website with smooth animations
+<h2>🌐 Photon Software Official Website</h2>
+<p><code>React.js</code> <code>Tailwind CSS</code></p>
+<ul>
+  <li><h3>Fully responsive, SEO-optimized company website with smooth animations</h3></li>
+</ul>
 
 ---
 
@@ -97,7 +138,7 @@ Full Stack Developer with **3+ years of experience** building scalable web, mobi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,mysql,redis,firebase,docker,aws,git,github,postman,vercel,netlify,cpp,java,vscode" />
+<img width="900" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,postgres,mysql,redis,firebase,docker,aws,git,github,postman,vercel,netlify,cpp,java,vscode" />
 
 </p>
 
@@ -105,15 +146,17 @@ Full Stack Developer with **3+ years of experience** building scalable web, mobi
 
 # 🏆 Achievements
 
-- 🥇 **1st College Rank** and **All India Rank 5968** in CodeKaze 2023
-- 🌍 **Global Rank 5077** in Google Kickstart 2022 Round G
-- 💡 **600+ problems** solved across LeetCode, CodeChef, Codeforces, GeeksforGeeks & more
+<ul>
+  <li><h3>🥇 <b>1st College Rank</b> and <b>All India Rank 5968</b> in CodeKaze 2023</h3></li>
+  <li><h3>🌍 <b>Global Rank 5077</b> in Google Kickstart 2022 Round G</h3></li>
+  <li><h3>💡 <b>600+ problems</b> solved across LeetCode, CodeChef, Codeforces, GeeksforGeeks &amp; more</h3></li>
+</ul>
 
 ---
 
 # 🎓 Education
 
-**B.Tech in Computer Science Engineering** — University Institute of Engineering and Technology, Kanpur (2020 – 2024)
+<h3>🎓 <b>B.Tech in Computer Science Engineering</b> — University Institute of Engineering and Technology, Kanpur (2020 – 2024)</h3>
 
 ---
 
